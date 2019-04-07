@@ -1,0 +1,6 @@
+{
+    "user_name":"yourname",
+    "mail_address":"youraddress@123.com",
+    "mail_server":"smtp.123.com",
+    "mail_password":"yourpassword"
+}
