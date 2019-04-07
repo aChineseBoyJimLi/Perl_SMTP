@@ -14,8 +14,10 @@ SMTP 全称 Simple Mail Transfer Protocol（简单邮件传送协议），是计
     |-- conf
         |-- conf.json
     |-- lib
+        |-- JSON.pm
+        |-- Digest
+        |-- JSON
         |-- Net
-            |-- SMTP_auth.pm
     |-- perl
         |-- Send_Mail.pl
 
