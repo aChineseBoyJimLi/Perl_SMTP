@@ -39,7 +39,7 @@ make install
 
 选择你的邮件服务提供商，这里以网易邮箱为例，进入你的网易邮箱开启你的 POP3/SMTP 服务。
 
-![](src/1.jpg)
+![1](https://user-images.githubusercontent.com/24802073/55730503-eeae7080-5a4a-11e9-9816-2790c13f7dde.jpg)
 
 然后配置 conf/conf.json 文件
 
@@ -57,9 +57,9 @@ make install
 * mail_server: 邮件服务商的 SMTP 服务器，可以在上面的设置界面找到，网易的是 smtp.163.com
 * mail_password：你的邮箱的密码，这里应该是客户端授权密码
 
-![](src/2.jpg)
+![2](https://user-images.githubusercontent.com/24802073/55730535-071e8b00-5a4b-11e9-95d3-0b3d82ed76ae.jpg)
 
-![](src/3.jpg)
+![3](https://user-images.githubusercontent.com/24802073/55730558-13a2e380-5a4b-11e9-98fb-93fdbe983a8f.jpg)
 
 ## 编写邮件内容
 
@@ -69,5 +69,5 @@ make install
 
 进入 /perl 文件夹，运行 Send_Mail.pl 发送邮件
 
-![](src/4.jpg)
+![4](https://user-images.githubusercontent.com/24802073/55730576-1bfb1e80-5a4b-11e9-99f5-3cfd2493f58b.jpg)
 
